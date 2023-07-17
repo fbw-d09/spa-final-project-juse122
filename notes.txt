@@ -1,0 +1,9 @@
+to-do:
+------
+
+- mehr als 10 ergebnisse -> button zum mehr ergebnisse laden -> page 2, 3 usw. reinladen, jedes mal unten wieder den button anzeigen, bis weniger als 10 übrig sind
+
+- responsive
+- 404 seite bauen
+
+- github pages hosten!
